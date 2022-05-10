@@ -1,0 +1,2 @@
+C:\Users\KCCI28\source\repos\DeleteLinkedList\Debug\DeleteLinkedList.exe
+C:\Users\KCCI28\source\data_structure\DeleteLinkedList\Debug\DeleteLinkedList.exe
