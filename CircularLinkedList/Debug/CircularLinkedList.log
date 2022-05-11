@@ -1,0 +1,8 @@
+﻿  ex4_3.c
+C:\Users\KCCI28\source\data_structure\CircularLinkedList\ex4_3.c(8,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI28\source\data_structure\CircularLinkedList\ex4_3.c(16,16): warning C4013: 'searchNode'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI28\source\data_structure\CircularLinkedList\ex4_3.c(16,27): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KCCI28\source\data_structure\CircularLinkedList\ex4_3.c(21,27): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KCCI28\source\data_structure\CircularLinkedList\ex4_3.c(26,27): warning C4047: '=': 'listNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KCCI28\source\data_structure\CircularLinkedList\ex4_3.c(30,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  CircularLinkedList.vcxproj -> C:\Users\KCCI28\source\data_structure\CircularLinkedList\Debug\CircularLinkedList.exe
