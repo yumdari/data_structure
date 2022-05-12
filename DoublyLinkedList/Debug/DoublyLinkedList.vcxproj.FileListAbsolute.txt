@@ -1,0 +1,2 @@
+C:\Users\KCCI28\source\repos\DoublyLinkedList\Debug\DoublyLinkedList.exe
+\\10.10.141.222\22 IoT 공유폴더\제2회 스타디움\염훈\Debug\DoublyLinkedList.exe

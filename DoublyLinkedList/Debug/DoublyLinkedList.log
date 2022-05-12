@@ -1,0 +1,8 @@
+﻿  DoubleLinkedList.c
+C:\Users\KCCI28\source\repos\DoublyLinkedList\DoubleLinkedList.c(10,28): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI28\source\repos\DoublyLinkedList\DoubleLinkedList.c(79,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex4_4.c
+C:\Users\KCCI28\source\repos\DoublyLinkedList\ex4_4.c(9,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KCCI28\source\repos\DoublyLinkedList\ex4_4.c(30,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  DoublyLinkedList.vcxproj -> C:\Users\KCCI28\source\repos\DoublyLinkedList\Debug\DoublyLinkedList.exe
