@@ -1,7 +1,7 @@
 #include "queueS.h"
 
 int main(void) {
-	QueueType* Q1 = createQueue();
+	QueueType* Q1 = createQueue();	// 큐 생성
 	element data;
 	printf("\n ***** 순차 큐 연산 ***** \n");
 	printf("\n 삽입 A>>"); enQueue(Q1, 'A'); printQ(Q1);
@@ -19,4 +19,4 @@ int main(void) {
 	printf("\n 삽입 E>>"); enQueue(Q1, 'E'); printQ(Q1);
 
 	getchar();	return 0;
-}
+}	
